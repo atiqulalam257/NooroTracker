@@ -1,4 +1,4 @@
-package com.noorotracker.domain.mapper
+package com.noorotracker.data.mapper
 
 import com.noorotracker.data.models.WeatherResponse
 import com.noorotracker.domain.model.Condition

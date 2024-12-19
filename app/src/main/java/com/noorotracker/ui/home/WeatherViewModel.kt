@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.noorotracker.data.models.WeatherResponse
 import com.noorotracker.data.repository.WeatherRepositoryImpl
-import com.noorotracker.domain.mapper.toDomainModel
+import com.noorotracker.data.mapper.toDomainModel
 import com.noorotracker.domain.model.WeatherData
 import com.noorotracker.domain.usecase.GetWeatherUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel

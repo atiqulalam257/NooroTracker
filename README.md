@@ -140,8 +140,12 @@ Jetpack Compose - For building declarative UI.
 
 Retrofit - For API integration.
 
+
 Hilt - For dependency injection.
 
 Coroutines - For asynchronous programming.
 
 WeatherAPI - Weather data provider.
+
+# Screenshot 
+<img width="232" alt="Screenshot 2024-12-19 at 4 49 06 PM" src="https://github.com/user-attachments/assets/dd61ddd2-2ffc-46a0-b616-b76a4069fa8a" />

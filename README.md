@@ -74,7 +74,7 @@ Installation
 
 #  Clone this repository:
 
-git clone https://github.com/yourusername/weather-tracker.git
+git clone https://github.com/atiqulalam257/weather-tracker.git
 
 Open the project in Android Studio.
 
